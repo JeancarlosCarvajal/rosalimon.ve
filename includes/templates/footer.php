@@ -1,3 +1,4 @@
+<?php
 <footer class="site-footer seccion">
         <div class="contenido-footer contenedor">
             <div class="logotipo">
